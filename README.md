@@ -145,4 +145,4 @@ This project is licensed under the MIT License.
 
 ---
 
-**Built with ❤️ for Walmart Sparkathon 2024**
+**Built with ❤️ for Walmart Sparkathon 2025**
