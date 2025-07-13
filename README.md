@@ -3,8 +3,7 @@
 A revolutionary mobile-first delivery tracking system that replaces traditional printed labels with secure QR codes and OTP verification, protecting customer privacy while enhancing the delivery experience.
 
 ## 🎯 Problem Statement
-
-Traditional delivery packages expose sensitive customer information (names, addresses, phone numbers) on printed labels. After delivery, these labels are often discarded carelessly, leading to potential privacy breaches, scams, and identity theft.
+How can security in retail be taken to the next level? What new technologies, AI models or encryption methods can further protect transactions, prevent fraud and build even greater trust between retailers and consumers?  
 
 ## 💡 Solution
 
