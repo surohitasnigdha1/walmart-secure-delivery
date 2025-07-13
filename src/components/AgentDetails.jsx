@@ -143,7 +143,7 @@ const AgentDetails = () => {
         </button>
 
         <button
-          onClick={handleMarkDelivered}
+          onClick={handleMarkSDelivered}
           disabled={isDelivered}
           className="bg-green-600 text-white py-4 rounded-2xl font-semibold hover:bg-green-700 transition-colors disabled:opacity-50 disabled:cursor-not-allowed flex flex-col items-center space-y-2 shadow-lg"
         >
