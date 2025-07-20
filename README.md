@@ -1,4 +1,4 @@
-# 📦 Walmart Secure Delivery
+# 📦 Walmart Werify
 
 A revolutionary mobile-first delivery tracking system that replaces traditional printed labels with secure QR codes and OTP verification, protecting customer privacy while enhancing the delivery experience.
 
